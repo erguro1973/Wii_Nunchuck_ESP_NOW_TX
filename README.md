@@ -5,11 +5,12 @@ Wii Nunchuck ESP-NOW Transmitter based on Xiao ESP32C6 (RiscV)
 
 This project turns a Wii Nunchuk controller into a low-latency, low-power wireless controller using ESP-NOW. It's specifically designed for the **Seeed Studio XIAO ESP32-C6** board, taking advantage of its external antenna and compact form factor.
 
-[Image of XIAO ESP32-C6 Nunchuk controller]
+
 
 ## 🚀 Features
 
 * **Wireless Communication:** Uses ESP-NOW for low-latency, low-power communication without needing to connect to a Wi-Fi network.
+* **Dual-Mode Control:** Standard joystick control plus a **Gesture Mode** (using the accelerometer) activated by holding the **Z button**.
 * **Specific Hardware:** Optimized for the XIAO ESP32-C6 board.
 * **External Antenna:** Configured to use the U.FL (external) antenna connector for maximum range.
 * **Custom I2C Pins:** Uses `D4 (GPIO 22)` and `D5 (GPIO 23)` for I2C, avoiding conflicts with the C6's USB serial port.
