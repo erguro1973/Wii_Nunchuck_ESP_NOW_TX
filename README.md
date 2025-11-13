@@ -1,5 +1,5 @@
 # Wii_Nunchuck_ESP_NOW_TX_For_SINOBOT_Project
-Wii Nunchuck ESP-NOW Transmitter based on Xiao ESP32C6 (RiscV)
+Wii Nunchuck ESP-NOW Transmitter based on Xiao ESP32C6 (RISC-V)
 
 # ESP-NOW Nunchuk Transmitter (XIAO ESP32-C6)
 
@@ -86,7 +86,7 @@ This can be drastically improved by reducing the send frequency (increasing the 
 ---
 
 # Wii_Nunchuck_ESP_NOW_TX_para_proyecto_SINOBOT
-Transmisor ESP-NOW para Nunchuk de Wii basado en Xiao ESP32C6 (RiscV)
+Transmisor ESP-NOW para Nunchuk de Wii basado en Xiao ESP32C6 (RISC-V)
 
 # Transmisor Nunchuk con ESP-NOW (XIAO ESP32-C6)
 
